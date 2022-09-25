@@ -1,1 +1,0 @@
-add_library(tinyexpr STATIC tinyexpr.c)
